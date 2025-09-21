@@ -1,0 +1,7 @@
+*.xisf
+*.tif
+*.fits
+
+test.py
+
+.venv
